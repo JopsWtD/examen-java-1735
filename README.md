@@ -385,3 +385,21 @@ Proyecto desarrollado por el **Grupo 4**:
 | **Andrés Jiménez** | [`@AlmX4`](https://github.com/AlmX4) | Desarrollador Backend |
 | **Jhorman** | [`@JopsWtD`](https://github.com/JopsWtD) | Desarrollador Backend y Arquitectura |
 | **Sofía** | [`@Sofi11017`](https://github.com/Sofi11017) | Desarrolladora Backend |
+
+
+
+### Examen final <1735> | <Simulación de Reserva Concurrente de Repuestos>
+
+Estudiante y grupo: Jhorman Fabian Peñaloza Sierra | Grupo 4
+Proyecto de origen: https://github.com/julio7879/Proyecto-Java-Grupo4
+
+Acceso:
+Ejecutar el método main de com.carmotors.simulacion.MainReservaConcurrente, independiente del menú del taller.
+
+Clases del examen:
+
+# Nuevas:
+- src/main/java/com/carmotors/simulacion/MainReservaConcurrente.java | MainReservaConcurrente
+
+# Ya existentes:
+- RepuestoDAO, LoteDAO, DetalleRepuestoDAO y TecnicoDAO.
